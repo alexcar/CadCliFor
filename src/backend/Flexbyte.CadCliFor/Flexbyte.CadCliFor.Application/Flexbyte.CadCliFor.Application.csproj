@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Flexbyte.CadCliFor.Infrastructure\Flexbyte.CadCliFor.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

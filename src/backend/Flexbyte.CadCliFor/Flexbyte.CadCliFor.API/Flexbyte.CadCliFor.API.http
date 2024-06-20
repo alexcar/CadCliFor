@@ -1,0 +1,6 @@
+@Flexbyte.CadCliFor.API_HostAddress = http://localhost:5204
+
+GET {{Flexbyte.CadCliFor.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
